@@ -1,2 +1,2 @@
 # core-programming
-Learn core programming (C, DS, Algo) from zero to hero
+Learn core programming (C, DS, Algo, C++) from zero to hero
